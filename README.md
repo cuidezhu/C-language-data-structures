@@ -16,7 +16,7 @@ This is the data structure of the C language, including common algorithms, etc..
 
 ## Two linear structures
 
-2.1 linear meter and its implementation
+2.1 linear list and its implementation
 
 2.2 Stack
 
