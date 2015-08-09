@@ -22,7 +22,7 @@ This is the data structure of the C language, including common algorithms, etc..
 
 2.3 Queue
 
-2.4 Application examples: polynomial adder
+2.4 Application examples: polynomial additive operation
 
 ## Three trees
 
