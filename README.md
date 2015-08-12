@@ -24,9 +24,9 @@ This is the data structure of the C language, including common algorithms, etc..
 
 2.4 Application examples: polynomial additive operation
 
-## Three trees
+## Three tree
 
-3.1 Trees and tree represents
+3.1 Tree and tree represents
 
 3.2 binary and storage structure
 
